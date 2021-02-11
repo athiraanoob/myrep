@@ -1,1 +1,1 @@
- my file1..for git
+ my file1..for git.this is an edited file from branch.
